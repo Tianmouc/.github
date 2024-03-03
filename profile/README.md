@@ -1,6 +1,6 @@
 ## Tianmouc Sensor
 
-Know more in our main page [tianmouc.cn](www.tianmouc.cn:38325)
+Know more in our main page [tianmouc](www.tianmouc.cn:38325)
 
 <!--
 
