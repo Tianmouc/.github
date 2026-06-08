@@ -44,7 +44,7 @@ for a brief introduction to Tianmouc, see [[Here](https://lyh983012.github.io/ti
 ## 数据处理与工具
 | 仓库 | 官方描述 | 语言 |
 |------|----------|------|
-| [tianmouc_datasets_devtool](https://github.com/Tianmouc/tianmouc_datasets_devtool) | 目前所有数据集的路径和读取工具&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Python |
+| [tianmouc_datasets_devtool](https://github.com/Tianmouc/tianmouc_datasets_devtool) | Tools for dataset path management and data loading （目前所有数据集的路径和读取工具） | Python |
 | [tmdat_tools](https://github.com/Tianmouc/tmdat_tools) | tmdat数据裁剪工具 | C++ |
 
 
@@ -52,18 +52,18 @@ for a brief introduction to Tianmouc, see [[Here](https://lyh983012.github.io/ti
 ## 应用与部署
 | 仓库 | 官方描述 | 语言 |
 |------|----------|------|
+| [tianmouc_gui](https://github.com/Tianmouc/tianmouc_gui) | Qt GUI for Tianmouc sensor 天眸一代的GUI软件源码 使用Qt5实现 | Python |
 | [Tianmouc_MoCap](https://github.com/Tianmouc/Tianmouc_MoCap) | The code for Tianmouc Complementary Motion Capture project | Jupyter Notebook |
 | [DualTMC-DepthEstimate](https://github.com/Tianmouc/DualTMC-DepthEstimate) | dual tmc depth estimate package | C++ |
 | [Tianmouc6D](https://github.com/Tianmouc/Tianmouc6D) | 6DoF object pose tracking framework using Tianmouc | C++ |
 | [DualTMC-FPGA](https://github.com/Tianmouc/DualTMC-FPGA) | drivers for dual tmc with fpga acced, compined with ros1 noetic bridge | C++ |
-| [tianmouc_gui](https://github.com/Tianmouc/tianmouc_gui) | Qt GUI for Tianmouc sensor | Python |
 | [dvs_all_gui](https://github.com/Tianmouc/dvs_all_gui) | GUI for all DVS and a test equipment from zhengyin | C++ |
 
 
 ## 其他仓库
 | 仓库 | 官方描述 | 语言 |
 |------|----------|------|
-| [unisim](https://github.com/Tianmouc/unisim) | 旧版仿真器&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Python |
+| [unisim](https://github.com/Tianmouc/unisim) | 旧版仿真器 Legacy simulator. The updated version is integrated into the sim module of tianmoucv; please use the latest version. | Python |
 | [bivs_benchmark](https://github.com/Tianmouc/bivs_benchmark) | Brain-inspired vision sensor benchmark | - |
 
 
