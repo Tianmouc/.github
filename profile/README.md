@@ -29,8 +29,10 @@ for a brief introduction to Tianmouc, see [[Here](https://lyh983012.github.io/ti
 ## 去噪与信号处理
 | 仓库 | 描述 | 语言 |
 |------|----------|------|
+| [TMC-SD2Gray reconstruction](https://github.com/Tianmouc/tmc-gray-recon) | Training and inference of a lightweight UNet for reconstructing high-quality grayscale images from raw SD signals. | Python |
 | [tianmoucv1_ssl_denoise](https://github.com/Tianmouc/tianmoucv1_ssl_denoise) | self-supervised denoise for Tianmouc v1 | Python |
 | [LADF_Denoise](https://github.com/Tianmouc/LADF_Denoise) | The code for "An Adaptive Filter for Denoising Brain-inspired Complementary Vision Sensor" | Python |
+
 
 
 
