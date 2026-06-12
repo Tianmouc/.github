@@ -11,7 +11,8 @@ for a brief introduction to Tianmouc, see [[Here](https://lyh983012.github.io/ti
 ## 核心算法库与SDK
 | 仓库 | 描述 | 语言 |
 |------|----------|------|
-| [tianmoucv](https://github.com/Tianmouc/tianmoucv) | Python tool-chain for tianmouc V1 sensor | Python |
+| [tianmoucv](https://github.com/Tianmouc/tianmoucv) | <img width="747" height="192" alt="未标题-1" src="https://github.com/user-attachments/assets/c05f3113-0eb6-4dbf-88c8-9de322072c29" />
+Python tool-chain for tianmouc V1 sensor | Python |
 | [tianmoucv_dev](https://github.com/Tianmouc/tianmoucv_dev) | (developing version) Python tool-chain for tianmouc V1 sensor | Python |
 | [tianmouc_sdk_minimum](https://github.com/Tianmouc/tianmouc_sdk_minimum) | The minimum Tianmouc-v1 cpp SDK, with a simple two-stream data transmission app | C++ |
 | [tianmouc_sdk_af_lenCon](https://github.com/Tianmouc/tianmouc_sdk_af_lenCon) | co-dev toolkit for computar lensconnect MPW | C |
